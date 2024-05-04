@@ -6,7 +6,7 @@ fake = Faker()
 
 try:
 
-    conn = sqlite3.connect('HomeTast2_base')
+    conn = sqlite3.connect('HomeTask2_base_cr_by_script')
     c = conn.cursor()
 
    
